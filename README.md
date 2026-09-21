@@ -52,3 +52,5 @@ baitomate/
 ├── index.php                # Front controller: routes to dashboard or login
 ├── router.php               # PHP CLI router for local preview and testing
 └── README.md                # Documentation, setup guide, and legal compliance info
+
+

@@ -1,0 +1,6 @@
+{
+  "name": "BaitoMate - Part-Time Job Tracker",
+  "description": "Part-time job and shift management web application for international students in Japan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

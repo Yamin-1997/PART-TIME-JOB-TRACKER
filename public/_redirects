@@ -1,0 +1,3 @@
+# Cloudflare Pages SPA redirect rule
+# Ensures client-side routing falls back to index.html with 200 HTTP status
+/*    /index.html   200

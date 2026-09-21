@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+  position: relative;
+  -webkit-overflow-scrolling: touch;
+}
+
+#root {
+  max-width: 100%;
+  overflow-x: hidden;
+}
